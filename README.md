@@ -1,16 +1,71 @@
-### Hi there 👋
+## Hello!
 
-<!--
-**leticiaferrazzini/leticiaferrazzini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="width: 50%;">
+    📍 Location: Sorocaba/SP, Brazil<br>
+    👩‍⚕️ Currently working as Anesthetist DVM (Doctor of Veterinary Medicine)<br>
+    📚 Systems Analysis and Development student at University of Sorocaba<br>
+    🔄 Currently career transitioning<br>
+    🎯 Actively seeking an internship in IT<br>
+  </div>
+
+  <div style="width: 45%;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXQ2bzc1a3cxNG9vZG12YmIza3QyeG83dXF6a2JuNDcwYnFsZ2k3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/04b8NVK7cTY61NIiz7/giphy.gif" alt="GIF" width="220" height="220">
+  </div>
+</div>
+
+
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leticiaferrazzini/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leticiaferrazzini@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiaferrazzini/?locale=en_US)
+
+<br>
+
+## Currently Learning
+
+<div>
+    <img align="center" alt="R Programming Language" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/R-Light.svg" width="56px" style="display: inline-block; margin-right: 10px;"/>
+    <img align="center" alt="MySQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Light.svg" width="56px" style="display: inline-block; margin-right: 10px;"/>
+    <img align="center" alt="Linux OS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Linux-Light.svg" width="56px" style="display: inline-block; margin-right: 10px;"/>
+    <img align="center" alt="Google Cloud" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/GCP-Light.svg" width="56px" style="display: inline-block;"/>
+</div>
+
+<br>
+
+
+## Certifications
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://www.crystal-system.eu/wp-content/uploads/Google-Cloud-1024x1024.png" alt="Google Data Analytics Specialization" width="180" height="180" style="margin-right: 20px;">
+  <div>
+
+### Google Data Analytics Professional Certificate
+
+- Google Career Certificates - [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics?utm_medium=sem&utm_source=gg&utm_campaign=B2C_LATAM_google-data-analytics_google_FTCOF_professional-certificates_countrygroup-1&campaignid=20766060712&adgroupid=154107371206&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=680252607976&hide_mobile_promo&gclid=Cj0KCQiAyeWrBhDDARIsAGP1mWR8MhHQdP9vPN4ZUa_V1cHDRQOCWJ0Rixv5K44luE6dES0o-d9LDNYaAquhEALw_wcB)
+
+<p style="text-align: justify;">
+   Data Analysis, Data Visualization, Data Cleaning, Spreadsheets, Metadata, SQL, Data Ethics, Data Integrity, Data Aggregation, Data Calculation, R Markdown, R Programming, R Studio, Tableau Software, Presentation, Storytelling
+</p>
+
+  </div>
+</div>
+
+<br>
+
+
+## English Level
+
+<div style="display: inline-block; overflow: hidden">
+        <img align="center" alt="R Programming Language" src="https://cdn.efset.org/efset-media-assets/efset-scores/social-media/certificate_results_og_72.png" width="300px"/>
+    </div>
+
+<br>
+
+## Statistics
+
+![Leticia Ferrazzini's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiaferrazzini&hide=prs&show=stars,forks,commits&show_icons=true&theme=dracula) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaferrazzini&layout=compact&theme=dracula)
