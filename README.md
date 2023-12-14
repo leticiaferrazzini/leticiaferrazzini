@@ -26,6 +26,15 @@
 
 <br>
 
+## About Me
+
+<p style="text-align: justify;"> 
+    When I started my second degree, many questioned the shift to such a different field. Yet, as an anesthetist, I've come to realize that much of the work revolves around recognizing patterns and trends. Data analysis proves invaluable across all domains, be it guiding companies or informing the choice of medications during surgery.  
+    I'm currently on the lookout for an internship, even if it's entirely outside the medical realm, to dive into the world of development. While my initial inclination is towards the data field, I'm open to new learnings. Perhaps one day, my mission will be to seamlessly integrate technological knowledge into the veterinary domain.
+</p>
+
+<br>
+
 ## Currently Learning
 
 <div>
