@@ -38,11 +38,10 @@
 ## Currently Learning
 
 <div>
-    <img align="center" alt="R Programming Language" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/R-Light.svg" width="56px" style="display: inline-block; margin-right: 10px;"/>
-    <img align="center" alt="MySQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Light.svg" width="56px" style="display: inline-block; margin-right: 10px;"/>
-    <img align="center" alt="Linux OS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Linux-Light.svg" width="56px" style="display: inline-block; margin-right: 10px;"/>
-    <img align="center" alt="Google Cloud" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/GCP-Light.svg" width="56px" style="display: inline-block;"/>
-</div>
+    <img align="center" alt="AWS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="56px" style="display: inline-block; margin-right: 10px;"/>
+    <img align="center" alt="PostgreSQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" width="56px" style="display: inline-block; margin-right: 10px;"/>
+    <img align="center" alt="Firebase" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Dark.svg" width="56px" style="display: inline-block; margin-right: 10px;"/>"
+    <img align="center" alt="Flutter" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flutter-Dark.svg" width="56px" style="display: inline-block; margin-right: 10px;"/>
 
 <br>
 
@@ -74,7 +73,3 @@
     </div>
 
 <br>
-
-## Statistics
-
-![Leticia Ferrazzini's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiaferrazzini&hide=prs&show=stars,forks,commits&show_icons=true&theme=dracula) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaferrazzini&layout=compact&theme=dracula)
