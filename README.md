@@ -40,7 +40,6 @@
 <div>
     <img align="center" alt="AWS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="56px" style="display: inline-block; margin-right: 10px;"/>
     <img align="center" alt="PostgreSQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" width="56px" style="display: inline-block; margin-right: 10px;"/>
-    <img align="center" alt="Firebase" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Dark.svg" width="56px" style="display: inline-block; margin-right: 10px;"/>
     <img align="center" alt="Flutter" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flutter-Dark.svg" width="56px" style="display: inline-block; margin-right: 10px;"/>
 
 <br>
