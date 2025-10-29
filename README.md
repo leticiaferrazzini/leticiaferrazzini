@@ -25,23 +25,6 @@
 
 <br>
 
-## About Me
-
-<p style="text-align: justify;"> 
-    When I started my second degree, many questioned the shift to such a different field. Yet, as an anesthetist, I've come to realize that much of the work revolves around recognizing patterns and trends. Data analysis proves invaluable across all domains, be it guiding companies or informing the choice of medications during surgery.  
-    I'm currently on the lookout for an internship, even if it's entirely outside the medical realm, to dive into the world of development. While my initial inclination is towards the data field, I'm open to new learnings. Perhaps one day, my mission will be to seamlessly integrate technological knowledge into the veterinary domain.
-</p>
-
-<br>
-
-## Currently Learning
-
-<div>
-    <img align="center" alt="AWS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="56px" style="display: inline-block; margin-right: 10px;"/>
-    <img align="center" alt="PostgreSQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" width="56px" style="display: inline-block; margin-right: 10px;"/>
-    <img align="center" alt="Flutter" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flutter-Dark.svg" width="56px" style="display: inline-block; margin-right: 10px;"/>
-
-<br>
 
 
 ## Certifications
