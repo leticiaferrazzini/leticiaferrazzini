@@ -29,10 +29,6 @@
 
 ## Certifications
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://www.crystal-system.eu/wp-content/uploads/Google-Cloud-1024x1024.png" alt="Google Data Analytics Specialization" width="180" height="180" style="margin-right: 20px;">
-  <div>
-
 ### Google Data Analytics Professional Certificate
 
 - Google Career Certificates - [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics?utm_medium=sem&utm_source=gg&utm_campaign=B2C_LATAM_google-data-analytics_google_FTCOF_professional-certificates_countrygroup-1&campaignid=20766060712&adgroupid=154107371206&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=680252607976&hide_mobile_promo&gclid=Cj0KCQiAyeWrBhDDARIsAGP1mWR8MhHQdP9vPN4ZUa_V1cHDRQOCWJ0Rixv5K44luE6dES0o-d9LDNYaAquhEALw_wcB)
