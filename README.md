@@ -6,10 +6,9 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="width: 50%;">
     📍 Location: Sorocaba/SP, Brazil<br>
-    👩‍⚕️ Currently working as Anesthetist DVM (Doctor of Veterinary Medicine)<br>
-    📚 Systems Analysis and Development student at University of Sorocaba<br>
+    👩‍⚕️ Working as Anesthetist DVM (Doctor of Veterinary Medicine)<br>
+    📚 Systems Analysis and Development<br>
     🔄 Currently career transitioning<br>
-    🎯 Actively seeking an internship in IT<br>
   </div>
 
   <div style="width: 45%;">
